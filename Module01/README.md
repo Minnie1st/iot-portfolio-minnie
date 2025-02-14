@@ -53,7 +53,7 @@ emmmmmm ..it is like giving "brains" to everyday objects. your fridge texts you 
 -Brand/protocol silos crippling interoperability
 
 ## Reflection 1
-[Reflection 1](./Reflections/ref01.md)
+[Reflection 1](../Reflections/ref01.md)
 
 ## json
 [Flow 1](Module01/flows.json)
