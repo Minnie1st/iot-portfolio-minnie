@@ -16,8 +16,7 @@ Starting from zero with Node-RED was overwhelming.Every step felt like guesswork
 
 The sensor’s buttons were another mystery =.=
 
-## Was there any good/fun “struggling”/exploration?
-Any show stoppers – anything where you should reach out to peers or instructors? 
+## Was there any good/fun “struggling”/exploration?Any show stoppers – anything where you should reach out to peers or instructors? 
 Yes!！Refreshing Node-RED wiped our entire flow and loaded someone else’s flow instead. We asked the professor, but even he wasn’t sure why the port conflict happened. We lost our work. Next time, I’ll save a backup copy of my flow before experimenting. Lesson learned the hard way.
 
 ## How was your interaction with peers/instructors?
