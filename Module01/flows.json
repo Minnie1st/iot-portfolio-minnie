@@ -1,0 +1,335 @@
+[
+    {
+        "id": "f6f2187d.f17ca8",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "a914b54476b16bb3",
+        "type": "inject",
+        "z": "f6f2187d.f17ca8",
+        "name": "Hello IoT",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Hello World",
+        "payloadType": "str",
+        "x": 220,
+        "y": 340,
+        "wires": [
+            [
+                "3cb1a2752df2922b",
+                "c39c934ffbe5c6db"
+            ]
+        ]
+    },
+    {
+        "id": "c3e5498ee6e56063",
+        "type": "debug",
+        "z": "f6f2187d.f17ca8",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 400,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "b8e462c52701ccba",
+        "type": "mqtt in",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "topic": "sticks/14/#",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "958c6bee22a06d0e",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 200,
+        "y": 120,
+        "wires": [
+            [
+                "c3e5498ee6e56063"
+            ]
+        ]
+    },
+    {
+        "id": "04dbf04153b6d960",
+        "type": "mqtt in",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "topic": "sticks/14/temp",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "958c6bee22a06d0e",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 210,
+        "y": 180,
+        "wires": [
+            [
+                "3cb1a2752df2922b",
+                "c3e5498ee6e56063"
+            ]
+        ]
+    },
+    {
+        "id": "3cb1a2752df2922b",
+        "type": "rbe",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 390,
+        "y": 180,
+        "wires": [
+            [
+                "99f7891cd3c364d2"
+            ]
+        ]
+    },
+    {
+        "id": "c39c934ffbe5c6db",
+        "type": "mqtt out",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "topic": "sticks/14/console",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "958c6bee22a06d0e",
+        "x": 910,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "99f7891cd3c364d2",
+        "type": "switch",
+        "z": "f6f2187d.f17ca8",
+        "name": "only on released",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 560,
+        "y": 180,
+        "wires": [
+            [
+                "5f2a43d525e48e07"
+            ]
+        ]
+    },
+    {
+        "id": "5f2a43d525e48e07",
+        "type": "change",
+        "z": "f6f2187d.f17ca8",
+        "name": "set message",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Hello IoT",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 750,
+        "y": 180,
+        "wires": [
+            [
+                "c39c934ffbe5c6db"
+            ]
+        ]
+    },
+    {
+        "id": "e565aeec2565a834",
+        "type": "mqtt in",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "topic": "sticks/14/temp",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "958c6bee22a06d0e",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 90,
+        "y": 500,
+        "wires": [
+            [
+                "894113590f1c24ec",
+                "c1d95cadcea33d54"
+            ]
+        ]
+    },
+    {
+        "id": "894113590f1c24ec",
+        "type": "ui_gauge",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "group": "9810cfffa737ca17",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "temp",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "40",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 290,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "c1d95cadcea33d54",
+        "type": "ui_chart",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "group": "9810cfffa737ca17",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 290,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "958c6bee22a06d0e",
+        "type": "mqtt-broker",
+        "name": "default",
+        "broker": "192.168.18.1",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "9810cfffa737ca17",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "c52dffd0cfef21a4",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "disabled": false,
+        "hidden": false,
+        "className": ""
+    },
+    {
+        "id": "c52dffd0cfef21a4",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
