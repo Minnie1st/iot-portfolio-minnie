@@ -25,6 +25,7 @@ Encouraging, approachable, collaborative
 
 ## Help and extra work
   - Who helped you, gave feedback, was it valuable?
+
 Juan helped me decode how nodes connect in Node-RED—like why the "sensor" talks to "debug." His tips turned my confusion into clarity. Super valuable!
   - Who did you help, gave feedback to?
   - Did you present, implement, made a PR, or fix something that was crucial for the class in itself?
