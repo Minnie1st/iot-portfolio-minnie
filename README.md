@@ -1,8 +1,8 @@
 # Personal Portfolio for the IoT class <at university/school>
 
-Author: < Minnie >
+### Author:  Minnie 
 
-My partner is < Oskar >, [portfolio link:TBD](https://github.com/partner/iot-)
+### My partner is  Oskar , [portfolio link:TBD](https://github.com/partner/iot-)
 
 In my team for the final project, I also had the following members:
 - <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
