@@ -9,6 +9,17 @@ Smart planter！may be I can automate feeding schedules and track my dog's healt
 Smart Nursing Home! I've been wanting to optimize my smart home system for a long time—scene modes often fail to work properly.
 
 ## Task Personal Profile
+Cross-disciplinary thinker.
+
+I switched from computer science to psychology almost as soon as I started, when I realized analyzing why people behave fascinated me more than coding alone. 
+
+Never dabbled in hardware.. True, but I’m decently hands-on—at least I can assemble Lego sets or IKEA furniture without leftover screws hhhh
+
+Math and stats are my comfort zone.
+
+I go all in on what excites me, but let’s just say… human curiosity has its limits for the rest=。=
+
+Life’s journey is never a waste。。。unless it involves me soldering circuit boards=。=
 
 ## Task What is IoT
 IoT refers to a network of interconnected physical devices (e.g., sensors, appliances, machines) that collect, share, and act on data via the internet. It combines embedded systems, cloud computing, and data analytics to enable automation, real-time decision-making, and enhanced efficiency across industries.
