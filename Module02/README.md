@@ -19,6 +19,6 @@ It is [here](https://github.com/partner/iot-portfolio/Module02/Readme.md#task-2)
 ...
 
 ## Reflection 3
-[Reflection 3](..Reflections/ref03.md)
+[Reflection 3](../Reflections/ref03.md)
 
 
