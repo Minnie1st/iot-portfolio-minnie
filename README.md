@@ -2,7 +2,7 @@
 
 ### Author:  Minnie 
 
-### My partner is  Rohan , [portfolio link:TBD](https://github.com/partner/iot-)
+### My partner is  Rohan , [portfolio link:](https://github.com/RohanIyer136/iot-portfolio-template)
 
 In my team for the final project, I also had the following members:
 - <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
