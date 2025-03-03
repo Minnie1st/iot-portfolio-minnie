@@ -30,7 +30,8 @@ This task was executed by myself. and then I did it again with my partner.
 ## Reflection 2
 [Reflection 2](../Reflections/ref02.md)
 
-## Task ...
+## Task 3
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9679.JPG?raw=true)
 
 ...
 
