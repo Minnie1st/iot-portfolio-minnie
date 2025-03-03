@@ -5,7 +5,7 @@ We are going to show here notes for Task 1, 2, 3, 4, and 5 to prove
 ## Task 1
 
 This task was executed by myself.
-![image](Module02/pictures/IMG_9624.JPG)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9624.JPG?raw=true)
 
 
 ## Task ...
