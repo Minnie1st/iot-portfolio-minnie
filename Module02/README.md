@@ -6,6 +6,8 @@ We are going to show here notes for Task 1, 2, 3, 4, and 5 to prove
 
 This task was executed by myself.
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9624.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9676.JPG?raw=true)
+
 
 
 ## Task 2
