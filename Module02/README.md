@@ -8,7 +8,9 @@ This task was executed by myself.
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9624.JPG?raw=true)
 
 
-## Task ...
+## Task 2
+
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9675.JPG?raw=true)
 
 This task was executed by my partner. The implementation was about ... 
 It is [here](https://github.com/partner/iot-portfolio/Module02/Readme.md#task-2).
