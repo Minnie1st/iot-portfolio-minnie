@@ -1,4 +1,4 @@
-# Personal Portfolio for the IoT class <at University of Tartu>
+# Personal Portfolio for the IoT class <at university of tartu>
 
 ### Author:  Minnie 
 
