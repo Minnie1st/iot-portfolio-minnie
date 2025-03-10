@@ -32,6 +32,7 @@ This task was executed by myself. and then I did it again with my partner. we te
 We forgot to take pic for water and aluminum foil=.=
 
 ## Task 4 Bomb Defuse Challenge
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9759.JPG?raw=true)
 ![image](
 
 It just exploded! Scared me to death! 💥😱
