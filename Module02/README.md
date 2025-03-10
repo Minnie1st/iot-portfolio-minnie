@@ -33,7 +33,7 @@ We forgot to take pic for water and aluminum foil=.=
 
 ## Task 4 Bomb Defuse Challenge
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9759.JPG?raw=true)
-![image](
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9761.JPG?raw=true)
 
 It just exploded! Scared me to death! 💥😱
 
