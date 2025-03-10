@@ -39,6 +39,12 @@ It just exploded! Scared me to death! 💥😱
 
 >>0.0<<
 
+## Task 5 Combination Challenge
+I plan to use an M5StickC to control an LED connected to GPIO 26, making it blink on and off every second with a resistor in the circuit. The M5StickC is powered via USB-C, and the setup includes a breadboard for connections. However, since the LED does not light up, the only reason is that the LED is likely broken. 
+
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9762.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9763.JPG?raw=true)
+
 ## Reflection 2
 [Reflection 2](../Reflections/ref02.md)
 
