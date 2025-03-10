@@ -31,8 +31,12 @@ This task was executed by myself. and then I did it again with my partner. we te
 
 We forgot to take pic for water and aluminum foil=.=
 
-## Challenge
-TA advised me not to do this, I might end up turning my laptop into fireworks or creating some unpredictable dangerous situations... >>0.0<<
+## Task 4 Bomb Defuse Challenge
+![image](
+
+It just exploded! Scared me to death! 💥😱
+
+>>0.0<<
 
 ## Reflection 2
 [Reflection 2](../Reflections/ref02.md)
