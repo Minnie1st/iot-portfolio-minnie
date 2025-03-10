@@ -22,10 +22,12 @@ It is [here](https://github.com/partner/iot-portfolio/Module02/Readme.md#task-2)
 
 ## Task 3
 
-This task was executed by myself. and then I did it again with my partner.
+This task was executed by myself. and then I did it again with my partner. we tested water ，aluminum foil and orange.
 
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9679.JPG?raw=true)
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module02/pictures/IMG_9678.JPG?raw=true)
+
+We forgot to take pic for water and aluminum foil=.=
 
 ## Challenge
 TA advised me not to do this, I might end up turning my laptop into fireworks or creating some unpredictable dangerous situations... >>0.0<<
