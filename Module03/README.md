@@ -56,7 +56,6 @@ This task was executed by myself.
 Mini Project: FirstAid station emergency button (very interesting)
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/WechatIMG405.png?raw=true)
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9831.PNG?raw=true)
-![image](
 
 ## Task 4
 
