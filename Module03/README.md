@@ -47,7 +47,6 @@ This task was executed by myself.
 Mini Project: MQTT listens everywhere
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9827.PNG?raw=true)
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9828.JPG?raw=true)
-![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9829.JPG?raw=true)
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9834.jpg?raw=true)
 
 
