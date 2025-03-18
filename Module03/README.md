@@ -59,8 +59,12 @@ Mini Project: FirstAid station emergency button (very interesting)
 
 ## Task 4
 
-This task didn't finish, I have tried many times. On Manjaro, when trying to install Netbird using yay netbird, I always get a "wrong password" error. My partner also doesn't know the password, which has prevented us from completing this project!😒
+This task was executed by myself.
 Mini Project: Remote access to the gateway
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9843.PNG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9842.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9845.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9844.jpg?raw=true)
 
 ## Reflection 4
 [Reflection 4](../Reflections/ref04.md)
