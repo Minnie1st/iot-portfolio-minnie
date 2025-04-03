@@ -4,7 +4,7 @@ We are going to show here notes for Task N to prove
 
 ## Task 1
 
-This task was executed by my partner and me.  
+This task was executed by myself
 Mini Project: Alarm Message on OLED mini Screen   
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_9887.PNG?raw=true)
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_9888.JPG?raw=true)
