@@ -1,16 +1,12 @@
 # Module 4
-
-
-
-
-
 We are going to show here notes for Task N to prove
 
 
 ## Task 1
 
 This task was executed by my partner and me.
-Mini Project: 
+Mini Project: Alarm Message on OLED mini Screen 
+
 
 
 
@@ -18,20 +14,24 @@ Mini Project:
 
 This task was executed by myself.
 Mini Project: 
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_9887.PNG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_9888.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_9938.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_9939.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_9937.PNG?raw=true)
+
 
 ## Task 3
 
 This task was executed by myself.
 Mini Project: 
-![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/WechatIMG405.png?raw=true)
-![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9831.PNG?raw=true)
+![image](
 
 ## Task 4
 
 This task was executed by myself.
 Mini Project: 
-![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9845.JPG?raw=true)
-![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module03/picture/IMG_9844.jpg?raw=true)
+![image](
 
 ## Reflection 6
 [Reflection 4](../Reflections/ref04.md)
