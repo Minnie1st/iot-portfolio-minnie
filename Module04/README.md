@@ -16,7 +16,10 @@ Mini Project: Alarm Message on OLED mini Screen
 ## Task 2
 
 This task was executed by myself.
-Mini Project: 
+Mini Project: HVAC system with Integration and Simulators/Mockups
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/temp_simulator.png?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/hvac.png?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/ACcontrol.png?raw=true)
 
 
 
