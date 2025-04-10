@@ -26,19 +26,24 @@ Mini Project: HVAC system with Integration and Simulators/Mockups
 ## Task 3
 
 This task was executed by myself.
-Mini Project: 
-![image](
+Mini Project: HVAC system with real sensors in Node-RED  
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_0044.PNG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_0045.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_0046.jpg?raw=true)
 
 ## Task 4
 
 This task was executed by myself.
-Mini Project: 
-![image](
+Mini Project: Full Access Control system in Node-RED (I would say so funny hhhh)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_0036.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_0038.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module04/pic/IMG_0039.JPG?raw=true)
 
 ## Reflection 6
-[Reflection 4](../Reflections/ref04.md)
+[Reflection 6](../Reflections/ref06.md)
 
 ## Reflection 7
-[Reflection 5](../Reflections/ref05.md)
+[Reflection 7](../Reflections/ref07.md)
 
 ## Reflection 8
+[Reflection 8](../Reflections/ref08.md)
