@@ -13,7 +13,10 @@ Mini Project: [Exploring IoTempower Services and Commands](https://github.com/Mi
 
 This task was executed by myself  
 Mini Project: First Node
-![image](
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0136.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0135.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0134.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0133.JPG?raw=true)
 
 
 
