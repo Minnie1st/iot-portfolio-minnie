@@ -31,7 +31,10 @@ Mini Project: Second Node
 ## Task 4
 
 This task was executed by myself.  
-Mini-Project: rebuild access control with IoTempower
+Mini-Project: rebuild access control with IoTempower  
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0145.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0138.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0136.jpg?raw=true)
 
 
 
@@ -39,6 +42,11 @@ Mini-Project: rebuild access control with IoTempower
 
 This task was executed by myself.   
 Mini project: INFLUXDB Database
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0151.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0147.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0148.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0149.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0150.jpg?raw=true)
 
 ## Project: Liquids Measuring Project (group project)  
 My part was that using the GY-UL53L0X laser distance sensor to measure the liquid level. 
