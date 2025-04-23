@@ -26,6 +26,8 @@ Mini Project: First Node
 This task was executed by myself  
 Mini Project: Second Node
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0138.JPG?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0136.jpg?raw=true)
+
 
 
 ## Task 4
@@ -33,8 +35,7 @@ Mini Project: Second Node
 This task was executed by myself.  
 Mini-Project: rebuild access control with IoTempower  
 ![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0145.JPG?raw=true)
-![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0138.JPG?raw=true)
-![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0136.jpg?raw=true)
+![image](https://github.com/Minnie1st/iot-portfolio-minnie/blob/main/Module05/pic/IMG_0144.JPG?raw=true)
 
 
 
