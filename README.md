@@ -2,13 +2,11 @@
 
 ### Author:  Minnie 
 
-### My partner is  Rohan , [portfolio link: here](https://github.com/RohanIyer136/iot-portfolio-template)
-
 In my team for the final project, I also had the following members:
-- <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
-- <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
+- Tarlan
+- Akshin
 
-Our team final project repository is [here](https://github.com/somewhere/final-iot-project)
+Our team final project repository is [here](https://github.com/Minnie1st/power-measurement)
 
 My personal profile and expectations, you can find [here](Module01/README.md#task-personal-profile).
 
